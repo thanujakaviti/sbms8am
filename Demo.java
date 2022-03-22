@@ -1,3 +1,4 @@
 public class Demo{
-	int a = 111;
+  int b = 222;
+  int a = 111;
 }
